@@ -1,0 +1,11 @@
+﻿{
+    "name": "com.unity.myPackage",
+    "displayName": "我的UnityPackageced测试包",
+    "version": "1.0.1",
+    "unity": "2022.2.7f1",
+    "description": "我的UnityPackageced测试包",
+    "keywords": ["key X", "key Y", "key Z"],
+    "category": "Controllers",
+    "dependencies": {
+    }
+}
